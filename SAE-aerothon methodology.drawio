@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T04:10:49.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="Y7AeTrJ8KsIaMj5nvgg4" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T07:44:41.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="_gbcuRhrLP1ZAKZKAJuX" version="19.0.3" type="github">
   <diagram id="MpDYNdVOITt3DCFKjYNN" name="Page-1">
     <mxGraphModel dx="788" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="eqLPgTAr0_EnZ2apYkRN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eqLPgTAr0_EnZ2apYkRN-18" target="eqLPgTAr0_EnZ2apYkRN-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eqLPgTAr0_EnZ2apYkRN-18" value="returns back to the launch site" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="eqLPgTAr0_EnZ2apYkRN-18" value="Returns back to the launch site" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="364" y="800" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eqLPgTAr0_EnZ2apYkRN-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eqLPgTAr0_EnZ2apYkRN-24" edge="1" target="eqLPgTAr0_EnZ2apYkRN-34">
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eqLPgTAr0_EnZ2apYkRN-24" value="rises 30 meters above the ground and reaches the closest GPS co-ordinate" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="364" y="370" width="100" height="100" as="geometry" />
+          <mxGeometry x="364" y="360" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eqLPgTAr0_EnZ2apYkRN-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eqLPgTAr0_EnZ2apYkRN-34" target="eqLPgTAr0_EnZ2apYkRN-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +58,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eqLPgTAr0_EnZ2apYkRN-40" value="wait for GPS data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="eqLPgTAr0_EnZ2apYkRN-40" value="wait for &lt;br&gt;GPS data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="364" y="120" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eqLPgTAr0_EnZ2apYkRN-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" target="eqLPgTAr0_EnZ2apYkRN-40" edge="1">
@@ -87,19 +87,19 @@
             <mxPoint x="3" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eqLPgTAr0_EnZ2apYkRN-66" value="if&lt;br&gt;Bullseye found" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="eqLPgTAr0_EnZ2apYkRN-66" value="if&lt;br&gt;target area&lt;br&gt;found" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="364" y="670" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2pTpa38BGVmSsJosTxPD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2pTpa38BGVmSsJosTxPD-7" target="eqLPgTAr0_EnZ2apYkRN-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="850" />
+              <mxPoint x="165" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2pTpa38BGVmSsJosTxPD-7" value="Descends 10 meter down at an altitude of 20 meters from ground and drops the payload" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="670" width="100" height="100" as="geometry" />
+        <mxCell id="2pTpa38BGVmSsJosTxPD-7" value="Descends 10 meter down at an altitude of 20 meters from ground and drops the payload and&amp;nbsp;Rises back to 30 meters" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="665" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2pTpa38BGVmSsJosTxPD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2pTpa38BGVmSsJosTxPD-8" target="eqLPgTAr0_EnZ2apYkRN-34">
           <mxGeometry relative="1" as="geometry">
