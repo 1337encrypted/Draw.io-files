@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T07:44:41.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="_gbcuRhrLP1ZAKZKAJuX" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T08:55:40.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="Xto92vAXNber0T_Q2Ayp" version="19.0.3" type="github">
   <diagram id="MpDYNdVOITt3DCFKjYNN" name="Page-1">
     <mxGraphModel dx="788" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,11 +18,10 @@
         <mxCell id="eqLPgTAr0_EnZ2apYkRN-4" value="Reads GPS co-ordinates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eqLPgTAr0_EnZ2apYkRN-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eqLPgTAr0_EnZ2apYkRN-17" target="eqLPgTAr0_EnZ2apYkRN-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eqLPgTAr0_EnZ2apYkRN-17" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="364" y="10" width="100" height="60" as="geometry" />
+        <mxCell id="eqLPgTAr0_EnZ2apYkRN-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="eqLPgTAr0_EnZ2apYkRN-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="70" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eqLPgTAr0_EnZ2apYkRN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eqLPgTAr0_EnZ2apYkRN-18" target="eqLPgTAr0_EnZ2apYkRN-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -129,6 +128,9 @@
         </mxCell>
         <mxCell id="2pTpa38BGVmSsJosTxPD-8" value="if&lt;br&gt;End of area" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="620" y="670" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2pTpa38BGVmSsJosTxPD-16" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="10" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
