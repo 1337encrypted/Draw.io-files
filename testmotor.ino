@@ -1,6 +1,6 @@
 #define in1 2                       //Motor1 tb66fng12 H bridge
-#define in2 3                       //Motor1 tb66fng12 H bridge
-#define pwma 4
+#define in2 4                       //Motor1 tb66fng12 H bridge
+#define pwma 3
 #define stby 5
 int Speed = 255;
 int key;
