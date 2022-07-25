@@ -11,7 +11,7 @@ void setup() {
   pinMode(in1,OUTPUT);
   pinMode(in2,OUTPUT);
   pinMode(pwma,OUTPUT);
-  digitalWrite(pwma,HIGH) //Keep the stdby high, making it low will put the motor driver in standby
+  digitalWrite(pwma,HIGH); //Keep the stdby high, making it low will put the motor driver in standby
 }
 void front()
 {
